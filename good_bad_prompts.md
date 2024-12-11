@@ -86,7 +86,7 @@ export default UsersPage;
 
 Your turn:
 Create a Next.js page for the blog posts use case.
-```
+
 
 **Outcome:**
 ```javascript
