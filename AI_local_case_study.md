@@ -1,13 +1,68 @@
-<div style="background-color: #1e1e1e; color: #fff; padding: 10px; border-radius: 10px; width: fit-content; max-width: 80%;">
-  If you'd like, I can assist with creating sample test cases or configuring the in-memory database and mock testing setup!
+<style>
+  :root {
+    --chat-bg-light: #F7F7F8;
+    --chat-text-light: #000000;
+    --chat-bg-dark: #2F2F2F;
+    --chat-text-dark: #E3E3E3;
+    --border-radius: 12px;
+    --padding: 15px; /* Ensuring equal padding on all sides */
+    --font-size: 15px;
+  }
+
+  /* Chat container for right alignment */
+  .chat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 60%;
+    margin-left: auto;
+  }
+  
+  .chat-box p {
+    border: none;
+    max-width: 100%;
+    margin: 0;
+    padding: var(--padding);
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-size: var(--font-size);
+    font-weight: 400;
+    white-space: pre-wrap;
+    color: var(--chat-text-dark);
+    background-color: var(--chat-bg-dark);
+    position: relative;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
+    margin-bottom: 4px;
+    display: inline-block;
+    text-align: left;
+    line-height: 1.4;
+    word-wrap: break-word;
+    margin-left: auto; /
+    margin-right: 0;
+  }
+  */
+  
+  /* Dark mode styling */
+  @media (prefers-color-scheme: dark) {
+    .chat-box {
+      background-color: var(--chat-bg-dark);
+      color: var(--chat-text-dark);
+      box-shadow: 0px 2px 4px rgba(255, 255, 255, 0.05);
+    }
+  }
+</style>
+
+
+# **🔹 AI Fraud Detection Project Execution**
+
+
+<div class="chat-container">
+  <div class="chat-box">
+    <p>off topic:
+seem deepseek r-1 marketing strategy to run on Local LLM server that all enterprise business build their own  LLM model like bank , finance service , law , health care  and game development
+    </p>
+  </div>
 </div>
-
-<br>
-
-<div style="background-color: #444; color: #fff; padding: 10px; border-radius: 10px; width: fit-content; max-width: 80%;">
-  you already did in a 5 previous request but your memory is limit in buffer memory
-</div>
-
 
 # **🔹 AI Fraud Detection Project Execution**
 ---
