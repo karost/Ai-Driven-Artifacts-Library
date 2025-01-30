@@ -40,7 +40,7 @@
     margin-left: auto; /
     margin-right: 0;
   }
-  */
+  
   
   /* Dark mode styling */
   @media (prefers-color-scheme: dark) {
