@@ -1,3 +1,12 @@
+<div style="background-color: #1e1e1e; color: #fff; padding: 10px; border-radius: 10px; width: fit-content; max-width: 80%;">
+  If you'd like, I can assist with creating sample test cases or configuring the in-memory database and mock testing setup!
+</div>
+
+<br>
+
+<div style="background-color: #444; color: #fff; padding: 10px; border-radius: 10px; width: fit-content; max-width: 80%;">
+  you already did in a 5 previous request but your memory is limit in buffer memory
+</div>
 
 
 # **🔹 AI Fraud Detection Project Execution**
